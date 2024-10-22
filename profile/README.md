@@ -1,17 +1,10 @@
 ## Welcome to the team 🙌
 
-
-## 목차
-
-- [0. 프로젝트 개요](#0.-프로젝트-개요)
-- [1. 아키텍쳐](#1.-아키택처)
-- [2. 기술 스택](#2.-기술-스택)
-- [3. 개발 진행 방법](#3.-개발-진행-방법)
-- [4. 요구 사항 정의서](#4.-요구-사항-정의서)
-- [5. 결제](#5.-결제)
+- [Docs open issue](https://github.com/N0ziroh/Docs/issues)
+- [Front open issue](https://github.com/N0ziroh/FrontEnd/issues)
+- [Back open issue](https://github.com/N0ziroh/BackEnd/issues)
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -20,6 +13,16 @@
 🍪 Fun facts - what is your team's favorite snack?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## 목차
+
+- [0. 프로젝트 개요](#0--프로젝트-개요)
+- [1. 아키텍쳐](#1--아키택처)
+- [2. 기술 스택](#2--기술-스택)
+- [3. 개발 진행 방법](#3--개발-진행-방법)
+- [4. 요구 사항 정의서](#4--요구-사항-정의서)
+- [5. 결제](#5--결제)
+
 ## 0. 프로젝트 개요
 
 - Professional Prosecutor Clone Coding
