@@ -39,7 +39,8 @@
 ## 2. 기술 스택
 
 - 협업 툴: Slack, Github(Issues)
-- 1차 개발: React + Spring Boot + AWS + (Jenkins | Github Action)
+- 1차 개발: React + Spring Boot + AWS + Github Action
+    - AWS: **IAM, Route 53, ACM, ELB(EC2, S3, RDS)**
 - 2차 개발(고려 중): 1차 개발 + Docker + Kafka
 
 ## 3. 개발 진행 방법
