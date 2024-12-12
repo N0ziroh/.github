@@ -34,7 +34,11 @@
 
 ## 1. 아키텍쳐 
 
-<img src="https://github.com/user-attachments/assets/38615b15-8f9a-4ac6-858b-a7d029533182" width="300" height="200"/>
+<p align="center">
+    <!-- <img src="https://github.com/user-attachments/assets/38615b15-8f9a-4ac6-858b-a7d029533182" width="300" height="200"/> -->
+    <img src="https://github.com/user-attachments/assets/130628a8-d380-40d4-a87b-bbfa90b7ae38" width="95%" height="95%"/>
+</p>
+
 
 ## 2. 기술 스택
 
