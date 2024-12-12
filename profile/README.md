@@ -40,6 +40,7 @@
 
 - 협업 툴: Slack, Github(Issues)
 - 1차 개발: React + Spring Boot + AWS + Github Action
+    - React: **tailwindcss, react-router-dom, framer-motion**
     - AWS: **IAM, Route 53, ACM, ALB, ELB(EC2, S3, RDS)**
 - 2차 개발(고려 중): 1차 개발 + Docker + Kafka
 
