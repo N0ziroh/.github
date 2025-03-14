@@ -2,9 +2,9 @@
 
 ![logo](https://github.com/user-attachments/assets/5a9915d5-a2aa-4563-8ddf-7d205afae6ab)
 
-- [Docs open issue](https://github.com/N0ziroh/Docs/issues)
+<!-- - [Docs open issue](https://github.com/N0ziroh/Docs/issues)
 - [Front open issue](https://github.com/N0ziroh/FrontEnd/issues)
-- [Back open issue](https://github.com/N0ziroh/BackEnd/issues)
+- [Back open issue](https://github.com/N0ziroh/BackEnd/issues) -->
 
 <!--
 **Here are some ideas to get you started:**
